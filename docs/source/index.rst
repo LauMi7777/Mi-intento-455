@@ -9,6 +9,8 @@ and offers a *simple* and *intuitive* API.
 **¿Puedo ver esto en el documento????**
 Y ahora siiii??????
 
+Me pregunto si, luego de haber re-leído el documento, podré lograrlo
+
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
