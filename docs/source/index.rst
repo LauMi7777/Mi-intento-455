@@ -9,6 +9,7 @@ and offers a *simple* and *intuitive* API.
 **¿Puedo ver esto en el documento????**
 
 miau y ahora?
+Creo que sigo sin entender cómo funciona esto
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
