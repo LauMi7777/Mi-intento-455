@@ -7,10 +7,8 @@ It pulls data from the `Open Food Facts database <https://world.openfoodfacts.or
 and offers a *simple* and *intuitive* API.
 
 **¿Puedo ver esto en el documento????**
-Y ahora siiii??????
 
-slmfsgbtmxzsmsfgnjodlcx
-
+Borré las tonterías y dejo mi frustración: por qué no me da????
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
