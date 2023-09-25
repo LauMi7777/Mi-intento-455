@@ -8,7 +8,7 @@ and offers a *simple* and *intuitive* API.
 
 **¿Puedo ver esto en el documento????**
 
-Borré las tonterías y dejo mi frustración: por qué no me da????
+Borré las tonterías y dejo mi frustración: por qué no me da???
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
