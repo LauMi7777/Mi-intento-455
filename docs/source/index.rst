@@ -12,6 +12,8 @@ Borré las tonterías y dejo mi frustración: por qué no me da????
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+Quisiera saber si ya? Demoras un día en mostrar los cambios??? >:3333
+
 .. note::
 
    This project is under active development.
